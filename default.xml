@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+       fetch="https://github.com"
+       revision="master"
+       review="" />
+
+  <project name="jiangxin/goconfig" path="lib/goconfig" remote="github" />
+  <project name="jiangxin/multi-log" path="lib/multi-log" remote="github" />
+</manifest>
